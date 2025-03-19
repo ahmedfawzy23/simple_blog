@@ -55,6 +55,9 @@ A lightweight blog application built with Laravel for creating, managing, and pu
 ![Image](https://github.com/user-attachments/assets/41f5ca57-c4b8-4cac-984f-e9c243c800f8)
 ![Image](https://github.com/user-attachments/assets/790b96f7-982a-4486-963d-ced865b73bba)
 
+## video
+https://drive.google.com/file/d/1Pv5JiUKqnQ9tVg9va5JJT8_exXM3ehfk/view?usp=sharing
+
 ## Technologies Used
 - Backend: Laravel 12
 - Frontend: HTML, Bootstrap 5
